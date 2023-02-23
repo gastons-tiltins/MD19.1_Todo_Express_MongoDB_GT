@@ -3,4 +3,4 @@
 
 To start developing run `npm install` and then `npm run start:nodemon`
 
-`MangoDB` database not included
+`MangoDB` data not included.
